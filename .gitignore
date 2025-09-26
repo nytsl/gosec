@@ -1,0 +1,16 @@
+# Go 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+
+# IDE 文件
+.idea/
+*.iml
+
+# 临时文件
+*.log
+*.tmp
+
+# Go modules 缓存
+/vendor/
